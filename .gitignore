@@ -3,7 +3,7 @@ Engine/bin/
 Engine/bin-int/
 Storm/bin/
 Storm/bin-int/
-Storm/log
+Storm/log/
 
 #excluded files
 *.sln
