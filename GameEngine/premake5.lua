@@ -2,7 +2,7 @@
 
 group "Dependencies"
 	
-	include "vendor/GLFW"
+	include "vendor/glfw"
 	include "vendor/imgui"
 	include "vendor/spdlog"
 	
