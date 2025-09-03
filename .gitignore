@@ -1,0 +1,18 @@
+#Directories
+Storm/Logs/
+Ignore folder/
+build/
+obj/
+
+#excluded files
+*.sln
+*.vcxproj
+*.filters
+*.user
+
+#environment variables
+.env
+.env.local
+
+#IDE and OS files
+.vs/
